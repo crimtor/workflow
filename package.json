@@ -1,0 +1,11 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "a project to showcase workflow",
+  "main": "index.js"
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Shawn T Fox"
+}
